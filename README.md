@@ -3,7 +3,7 @@
 ___
 Since the official template is not usable, I have decided to make my own version of it that would be as close as possible to the original one.
 
-I have made it primarily for Rigorosum thesis, but it can also be used for the Bachelor's and Master's ones. You just have to change some of the fields; there should be drop-down lists for them. The original templates can be found [on the official website](https://knihovna.prf.cuni.cz/kvalifikacni-prace/sablony-vs-praci).
+I have made it primarily for Rigorosum thesis, but it can also be used for the Master's and Doctoral ones. You just have to change some of the fields; there should be drop-down lists for them. The original templates can be found [on the official website](https://knihovna.prf.cuni.cz/kvalifikacni-prace/sablony-vs-praci).
 
 Please, do not reupload the template. Link this repository instead. I suppose I will be updating it, so let's all have the latest version.
 
