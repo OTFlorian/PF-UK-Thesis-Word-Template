@@ -1,6 +1,6 @@
 # Charles University, Faculty of Law, Thesis Word Template
 **TL;DR:**
-- **[DOWNLOAD](https://github.com/OTristanF/PF-UK-Thesis-Word-Template/blob/master/original/template-cuni-law-original.dotx?raw=true) the standard version (close to the original one)**
+- **[DOWNLOAD](https://github.com/OTristanF/PF-UK-Thesis-Word-Template/blob/master/standard/template-cuni-law-standard.dotx?raw=true) the standard version (close to the original one)**
 - **[DOWNLOAD](https://github.com/OTristanF/PF-UK-Thesis-Word-Template/blob/master/alternative/template-cuni-law-alternative.dotx?raw=true) the alternative version (adjusted typography)**
 ___
 
@@ -30,7 +30,7 @@ There are several drop-down lists that you should deal with:
 9. rigorozant/rigorozantka/diplomant/diplomantka/disertant/disertantka
 10. Several "[Type here]" fields (easy to find)
 
-### Original Template
+### Standard Template
 
 There are several styles on the style pane:
 1. Text Odstavce (use this for the paragraph text, not Normal)
