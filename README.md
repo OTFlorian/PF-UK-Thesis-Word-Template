@@ -53,6 +53,7 @@ Use them, and you should be fine.
 
 ### Alternative Template
 
+There are several styles on the style pane:
 1. První odstavec (use this for the first paragraph)
 2. Další odstavce (use this for the next paragraphs)
 3. Nečíslovaný nadpis
