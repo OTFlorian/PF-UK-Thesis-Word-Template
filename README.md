@@ -6,7 +6,7 @@ ___
 
 ## General
 
-Since the official template is not usable, I have decided to make my own version of it that would be as close as possible to the original one. At top of that, I have made a better-looking version that implements the suggestions from [Typography for Lawyers](https://typographyforlawyers.com).
+Since the official template is not usable, I have decided to make my own version of it that would be as close as possible to the original one. At the top of that, I have made a better-looking version that implements the suggestions from [Typography for Lawyers](https://typographyforlawyers.com).
 
 I have made it primarily for Rigorosum thesis, but it can also be used for the Master's and Doctoral ones. You just have to change some of the fields; there should be drop-down lists for them. The original templates can be found [on the official website](https://knihovna.prf.cuni.cz/kvalifikacni-prace/sablony-vs-praci).
 
@@ -36,7 +36,7 @@ There are several drop-down lists that you should deal with:
 7. Datum vypracování práce (it will be automatically changed in the next part)
 8. vypracoval/a
 9. rigorozant/rigorozantka/diplomant/diplomantka/disertant/disertantka
-10. Several "[Type here]" fields. Lookup them.
+10. Several "[Type here]" fields (easy to find)
 
 ### Original Template
 
@@ -49,7 +49,7 @@ There are several styles on the style pane:
 6. Položka v seznamu literatury
 7. Typ zdroje v seznamu literatury
 
-Use them and you should be fine. 
+Use them, and you should be fine. 
 
 ### Alternative Template
 
@@ -62,4 +62,4 @@ Use them and you should be fine.
 7. Položka v seznamu literatury
 8. Typ zdroje v seznamu literatury
 
-Use them and you should be fine. 
+Use them, and you should be fine. 
