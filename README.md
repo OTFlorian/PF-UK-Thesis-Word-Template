@@ -1,5 +1,7 @@
 # Charles University, Faculty of Law, Thesis Word Template
-**TL;DR [DOWNLOAD](https://github.com/OTristanF/PF-UK-Thesis-Word-Template/blob/master/template-cuni-law.dotx?raw=true).**
+**TL;DR:**
+**- [DOWNLOAD the original version](https://github.com/OTristanF/PF-UK-Thesis-Word-Template/blob/master/original/template-cuni-law-original.dotx?raw=true).**
+**- [DOWNLOAD the alternative version](https://github.com/OTristanF/PF-UK-Thesis-Word-Template/blob/master/alternative/template-cuni-law-alternative.dotx?raw=true)**
 ___
 Since the official template is not usable, I have decided to make my own version of it that would be as close as possible to the original one.
 
