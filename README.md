@@ -21,7 +21,7 @@ There will be two files – docx and dotx. Use preferably dotx.
 There are several drop-down lists that you should deal with:
 1. Author (this will also change the Author field in the doc info)
 2. Název práce (this will also change the Title field in the doc info)
-3. Poznázev práce (if there is any)
+3. Podnázev práce (if there is any)
 4. Rigorózní/diplomová/disertační práce
 5. Pověřený akademický pracovník/Vedoucí diplomové práce/Školitel
 6. Tematický okruh/Katedra/Studijní program
