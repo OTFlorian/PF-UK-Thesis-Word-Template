@@ -54,6 +54,8 @@ There are several styles on the style pane:
 6. Heading (Nadpis) 3
 7. Položka v seznamu literatury
 8. Typ zdroje v seznamu literatury
+9. První sloupec v tabulce
+10. Text v tabulce
 
 Use them, and you should be fine.
 
