@@ -19,9 +19,12 @@ There will be two files – docx and dotx. Use preferably dotx.
 ### General
 
 There are several drop-down lists that you should deal with:
-1. Author (this will also change the Author field in the doc info)
-2. Název práce (this will also change the Title field in the doc info)
-3. Podnázev práce (if there is any)
+1. Author
+    - This will also change the Author field in the doc info.
+2. Název práce
+    - This will also change the Title field in the doc info.
+3. Podnázev práce
+    - If there is any.
 4. Rigorózní/diplomová/disertační práce
 5. Pověřený akademický pracovník/Vedoucí diplomové práce/Školitel
     - Master's: Vedoucí diplomové práce
@@ -31,7 +34,8 @@ There are several drop-down lists that you should deal with:
     - Master's: Katedra
     - Rigorosum: Tematický okruh
     - Doctoral: Studijní program
-7. Datum vypracování práce (it will be automatically changed in the next part)
+7. Datum vypracování práce
+    - Make sure to update the date field on the next page (Čestné prohlášení).
 8. vypracoval/a
 9. rigorozant/rigorozantka/diplomant/diplomantka/disertant/disertantka
 10. Several "[Type here]" fields (easy to find)
