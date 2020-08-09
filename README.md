@@ -24,7 +24,13 @@ There are several drop-down lists that you should deal with:
 3. Podnázev práce (if there is any)
 4. Rigorózní/diplomová/disertační práce
 5. Pověřený akademický pracovník/Vedoucí diplomové práce/Školitel
+    - Master's: Vedoucí diplomové práce
+    - Rigorosum: Pověřený akademický pracovník
+    - Doctoral: Školitel
 6. Tematický okruh/Katedra/Studijní program
+    - Master's: Katedra
+    - Rigorosum: Tematický okruh
+    - Doctoral: Studijní program
 7. Datum vypracování práce (it will be automatically changed in the next part)
 8. vypracoval/a
 9. rigorozant/rigorozantka/diplomant/diplomantka/disertant/disertantka
